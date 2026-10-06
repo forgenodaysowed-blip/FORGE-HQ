@@ -1,0 +1,9 @@
+{
+  "name":"FORGE HQ",
+  "short_name":"FORGE HQ",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#111111",
+  "theme_color":"#111111",
+  "description":"FORGE day-to-day business management dashboard."
+}
